@@ -1,0 +1,147 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+.home .hero img
+  max-width 450px!important
+
+.appevents
+  display -webkit-box
+  flex-flow row wrap
+  flex-direction row
+  justify-content space-between
+  align-content space-between
+  list-style none
+
+  li {
+    height: 4em;
+    width: 4em;
+    overflow: hidden;
+    margin: 0;
+    padding 0.5em;
+  }
+  li:before {
+    //content: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-90/test.png);
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+  }
+
+  // li
+  //   width 4em
+  //   height 4em
+  //   margin 1em
+  //   padding 0.5em
+  //   box-shadow: 0 3px 2px -5px rgb(50 50 63 / 15%), 0 8px 16px -8px rgb(30 30 30 / 10%), 0 -6px 16px -6px rgb(30 30 30 / 3%);
+  //   border-radius: 8px;
+  //   //flex-direction: row;
+  //   align-items: start;
+  //   transition-property: color,background-color,box-shadow,transform,-webkit-box-shadow,-webkit-transform;
+  //   transition-duration: .15s;
+  //   //color: #555;
+  //   background-size: 5em 5em
+  //   background-repeat: no-repeat
+
+  .bitsbaeume
+    content: url("/images/appicon-bitsbaeume-2018.png")
+
+  .ccc
+    content: url("/images/appicon-ccc-2019.png")
+
+  .cccamp
+    content: url("/images/appicon-cccamp-2019.png")
+
+  .datenspuren
+    content: url("/images/appicon-datenspuren-2020.png")
+
+  .divoc
+    content: url("/images/appicon-divoc-r2r-2021.png")
+
+  .droidcon-berlin
+    content: url("/images/appicon-droidcon-berlin-2019.png")
+
+  .fiffkon
+    content: url("/images/appicon-fiffkon-2018.png")
+
+  .fosdem
+    content: url("/images/appicon-fosdem-2021.png")
+
+  .fossgis
+    content: url("/images/appicon-fossgis.png")
+
+  .froscon
+    content: url("/images/appicon-froscon-2020.png")
+
+  .gpn
+    content: url("/images/appicon-gpn-2019.png")
+
+  .hackover
+    content: url("/images/appicon-hackover-2019.png")
+
+  .kotlinconf
+    content: url("/images/appicon-kotlinconf-2019.png")
+
+  .mrmcd
+    content: url("/images/appicon-mrmcd-2019.png")
+
+  .pgcon
+    content: url("/images/appicon-pgcon.png")
+
+  .rc3
+    content: url("/images/appicon-rc3-2020.png")
+
+  .tazlab
+    content: url("/images/appicon-taz-lab-2019.png")
+  
+
+.feature h2
+  padding-left: 30px
+  background-repeat: no-repeat
+  background-position: 5px 5px
+
+.feature:nth-child(1) h2
+  background-image: url("/images/lnr-magic-wand.svg")
+
+.feature:nth-child(2) h2
+  background-image: url("/images/lnr-rocket.svg")
+
+.feature:nth-child(3) h2
+  background-image: url("/images/lnr-code.svg")
+
+.headline
+  padding-left: 1em
+  background-repeat: no-repeat
+  background-position: 0px 0.3em
+  background-size: 0.7em
+  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(126deg) brightness(78%) contrast(119%);
+
+.appfeatures-headline
+  background-image: url("/images/lnr-highlight.svg")
+
+.appintegrations-headline
+  background-image: url("/images/lnr-plus-circle.svg")
+
+.applanguages-headline
+  background-image: url("/images/lnr-earth.svg")
+
+
+// .appfeatures li
+//   list-style: outside url("/images/lnr-checkmark-circle.svg")
+//   margin-left: 0.5em
+
+// .appintegrations li
+//   list-style: outside url("/images/lnr-plus-circle.svg")
+//   margin-left: 0.5em
+
+// .applanguages li
+//   list-style: outside url("/images/lnr-spell-check.svg")
+//   margin-left: 0.6em
+
+.appfeatures-details
+  h2:nth-child(2n)
+    p
+      color orange
+
+

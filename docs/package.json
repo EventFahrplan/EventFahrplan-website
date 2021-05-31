@@ -1,0 +1,25 @@
+{
+  "name": "EventFahrplan",
+  "version": "0.0.1",
+  "description": "An Android app to enjoy event schedules powered by Frab or Pretalx.",
+  "main": "index.js",
+  "authors": {
+    "name": "Tobias Preuss",
+    "email": "tobias.preuss@googlemail.com"
+  },
+  "repository": "https://github.com/EventFahrplan/EventFahrplan-website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "buefy": "^0.9.7",
+    "country-flag-icons": "^1.2.10",
+    "markdown-it-attrs": "^4.0.0",
+    "vue-devtools": "^5.1.4"
+  }
+}
