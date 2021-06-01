@@ -1,8 +1,8 @@
 <template>
     <div class="box">
     <article class="media">
-        <div class="media-left">
-            <figure class="image">
+        <div class="media-left" style="width: 640px; height: 480px">
+            <figure class="image is-4by3">
                 <img :src=image :alt=imageDescription>
             </figure>
         </div>
@@ -28,12 +28,7 @@
 
 <script>
     export default {
-        props: [ "image", "imageDescription", "title", "description" ],
-        data() {
-            return {
-                isActive: true
-            }
-        }
+        props: [ "image", "imageDescription", "title", "description" ]
     }
 </script>
 
