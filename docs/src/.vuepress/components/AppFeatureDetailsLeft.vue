@@ -1,10 +1,11 @@
 <template>
     <div class="box">
     <article class="media">
-        <div class="media-left" style="width: 640px; height: 480px">
-            <figure class="image is-4by3">
+        <div class="media-left">
+            <vue-picture-swipe :items="items"></vue-picture-swipe>
+            <!-- <figure class="image is-4by3">
                 <img :src=image :alt=imageDescription>
-            </figure>
+            </figure> -->
         </div>
         <div class="media-content">
             <div class="content pre-formatted">
@@ -27,8 +28,23 @@
 </style>
 
 <script>
+    import VuePictureSwipe from 'vue-picture-swipe';
     export default {
-        props: [ "image", "imageDescription", "title", "description" ]
+        components: {
+            'VuePictureSwipe': VuePictureSwipe,
+        },
+        props: [ "image", "imageDescription", "thumbnailImage", "title", "description" ],
+        data() {
+            return {
+                items: [{
+                    src: this.image,
+                    thumbnail: this.thumbnailImage,
+                    w: 640,
+                    h: 480,
+                    alt: this.imageDescription
+                }]
+            };
+        }
     }
 </script>
 
