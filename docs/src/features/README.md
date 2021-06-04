@@ -4,7 +4,9 @@ pageClass: appfeatures-details
 
 # Features
 
-<AppFeatureDetails />
+<div class="content columns">
+    <AppFeatureDetails />
+</div>
 
 ## View program by day and rooms (side by side)
 

@@ -1,24 +1,32 @@
 <template>
-    <div class="box">
-    <article class="media">
-        <div class="media-left">
-            <vue-picture-swipe :items="items"></vue-picture-swipe>
-            <!-- <figure class="image is-4by3">
+    <div class="card columns mx-3 my-5">
+        <div class="card-image column">
+            <figure class="image is-4by3">
                 <img :src=image :alt=imageDescription>
+            </figure>
+            <!-- <figure class="image is-4by3">
+                <vue-picture-swipe :items="items" :alt=imageDescription></vue-picture-swipe>
             </figure> -->
         </div>
-        <div class="media-content">
-            <div class="content pre-formatted">
-                <p>
-                <h2>{{ title }}</h2><br>{{ description }}
-                </p>
+        <div class="card-content column">
+            <div class="media">
+                <div class="media-content">
+                    <p class="title is-4">{{ title }}</p>
+                </div>
             </div>
+
+            <div class="content pre-formatted">{{ description }}</div>
         </div>
-    </article>
     </div>
+
+
+
 </template>
 
 <style scoped>
+    .card-image {
+        max-width: 700px !important;
+    }
     .pre-formatted {
         white-space: pre-wrap;
     }
