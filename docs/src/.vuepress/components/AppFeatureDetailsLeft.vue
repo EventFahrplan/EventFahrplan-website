@@ -1,5 +1,5 @@
 <template>
-    <div class="card columns mx-3 my-5">
+    <div class="card columns mx-3 my-5 pt-4">
         <div class="card-image column">
             <figure class="image is-4by3">
                 <img :src=image :alt=imageDescription>
