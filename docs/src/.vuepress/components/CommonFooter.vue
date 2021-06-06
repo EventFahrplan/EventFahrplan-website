@@ -1,5 +1,5 @@
 <template>
-    <footer class="footer p-4 mt-6">
+    <footer class="p-4 mt-6">
         <div class="content has-text-centered">
             <p>
             Made by Tobias Preuss with ❤️. The source code is licensed

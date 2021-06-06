@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/EventFahrplan-35c3-Events-Tablet-Phone.png
+heroImage: /images/hero.png
 tagline: An Android app to enjoy event schedules powered by Frab or Pretalx.
 actionText: All features →
 actionLink: /features/
