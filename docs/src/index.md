@@ -11,7 +11,6 @@ features:
   details: Never loose access to your personal event schedule - always available and functional on your device.
 - title: Open source
   details: The source code of this project is available and will always be accessible for you in the future.
-footer: Made by Tobias Preuss with ❤️
 ---
 
 # Feature highlights {.appfeatures-headline .headline}
@@ -68,3 +67,5 @@ The user interface of EventFahrplan can be translated into any language. Session
 * GPN {.gpn}
 * PGCon 2018 {.pgcon}
 {.appevents}
+
+<CommonFooter />
