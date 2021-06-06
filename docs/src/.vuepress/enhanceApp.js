@@ -4,8 +4,6 @@
  * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
  */
 
-const VuePictureSwipe = require("vue-picture-swipe")
-//import VuePictureSwipe from 'vue-picture-swipe'
 import Buefy from 'buefy'
 import 'buefy/dist/buefy.css' // TODO Only apply to /features
 
@@ -16,5 +14,4 @@ export default ({
   siteData // site metadata
 }) => {
   Vue.use(Buefy)
-  Vue.use('vue-picture-swipe', VuePictureSwipe)
 }

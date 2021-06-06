@@ -20,7 +20,6 @@
     "buefy": "^0.9.7",
     "country-flag-icons": "^1.2.10",
     "markdown-it-attrs": "^4.0.0",
-    "vue-devtools": "^5.1.4",
-    "vue-picture-swipe": "^2.1.0"
+    "vue-devtools": "^5.1.4"
   }
 }
