@@ -57,7 +57,58 @@
                         title: "Manage your favorites",
                         description: "Your selection in one place. Once you have marked all your sessions they are visually highlighted in schedule screen. Additionally, the favorites screen shows them in chronologically order separated by days.\n\n" +
                         "Sharing is fun. Whether you want to advertise a very interesting talk on social media or notify a friend of a upcoming workshop - it is so easy. Long-tap a session in the schedule screen to open the context menu and share the session or tap the share icon at the top bar if you have the details screen open.\n\n" +
-                        "Your data is available. If you have the favorites screen open and you tap the share icon at top bar then you can export all you favorites it one step."
+                        "Your data is available. If you have the favorites screen open and you tap the share icon at top bar then you can export all your favorites in one step."
+                    },
+                    {
+                        image: "/images/eventfahrplan-tablet-favorites-640x480.png",
+                        thumbnailImage: "/images/eventfahrplan-tablet-events-256x192.png",
+                        imageDescription: "TODO",
+                        title: "Setup alarms for individual events",
+                        description: "You won't miss a session. It can be challenging to remember all talks and workshops at a larger conference. No worries - we got you equipped. You can setup alarms for individual sessions.\n\n" +
+                        "You choose your alarm time. On the schedule screen long-tap a session to open the context-menu and set an alarm. On the details screen tap the bell icon at the top bar of the screen.\n\n" +
+                        "You customize alarms to your taste. In the app settings you can select the default alarm time, enable insistent alarms and pick the alarm tone."
+                    },
+                    {
+                        image: "/images/eventfahrplan-tablet-smartphone-calendar-640x480.png",
+                        thumbnailImage: "/images/eventfahrplan-tablet-events-256x192.png",
+                        imageDescription: "TODO",
+                        title: "Add events to your personal calendar",
+                        description: "You have the full session information available to add it to your calendar if you like to. The start and end time of the session are automatically used to construct the correct time and duration of the calendar entry.\n\n" +
+                        "On the schedule screen long-tap a session and choose add to calendar. On the details screen tap the calendar icon at the top bar of the screen."
+                    },
+                    {
+                        image: "/images/eventfahrplan-tablet-favorites-640x480.png",
+                        thumbnailImage: "/images/eventfahrplan-tablet-events-256x192.png",
+                        imageDescription: "TODO",
+                        title: "Share a website link to an event with others",
+                        description: "Lorem ipsum dolor."
+                    },
+                    {
+                        image: "/images/eventfahrplan-tablet-smartphone-settings-updates-640x480.png",
+                        thumbnailImage: "/images/eventfahrplan-tablet-events-256x192.png",
+                        imageDescription: "TODO",
+                        title: "Automatic program updates (configurable in settings)",
+                        description: "You are up-to-date at all times. Regardless whether a session is added, moved to a new room or even canceled - you are informed.\n\n" +
+                        "The app periodically checks for program updates and loads them from the server if needed.\n\n" +
+                        "You decide. You can disable automatic updates in the settings. To manually retrieve program updates open the schedule screen and tap the refresh entry in the overflow menu at the top bar."
+                    },
+                    {
+                        image: "/images/eventfahrplan-tablet-smartphone-changes-640x480.png",
+                        thumbnailImage: "/images/eventfahrplan-tablet-events-256x192.png",
+                        imageDescription: "TODO",
+                        title: "Keep track of program changes",
+                        description: "You know what changed. Whenever the program changes then the app notifies you about it.\n\n" +
+                        "You won't miss it. There three places where changes are communicated: the app shows a notification at the top status bar, a dialog with a short summary of the changes and the schedule changes screen.\n\n" +
+                        "You know what changes. The schedule changes screen list all sessions which changed since the last program update. You can easily spot if a speaker was added, the language was specified or a session was moved to the afternoon."
+                    },
+                    {
+                        image: "/images/eventfahrplan-tablet-smartphone-vote-640x480.png",
+                        thumbnailImage: "/images/eventfahrplan-tablet-events-256x192.png",
+                        imageDescription: "TODO",
+                        title: "Vote and leave comments on talks and workshops",
+                        description: "Your opinion will be heard. You enjoyed a session so much that you want to tell the speakers? Please do so.\n\n" +
+                        "Depending on the backend system you can leave a textual comment for the speakers and rate the talk via a five-stars system. Your response is only accessible to the speakers and the conference organizers.\n\n" +
+                        "To provide feedback open the session details screen and tap the thumbs up comment icon at the top bar."
                     }
                 ],
                 isActive: true
