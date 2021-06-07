@@ -7,11 +7,11 @@
             is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
             </p>
             <p>
-                <a href="/en/imprint">Imprint</a>
+                <a href="/imprint">Imprint</a>
                  ·
-                <a href="/en/privacy-policy">Privacy policy</a>
+                <a href="/privacy-policy">Privacy policy (German)</a>
                  ·
-                <a href="/en/source-code">Source code</a>
+                <a href="https://github.com/EventFahrplan/EventFahrplan-website">Source code</a>
             </p>
         </div>
     </footer>
