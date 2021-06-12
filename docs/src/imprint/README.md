@@ -18,7 +18,7 @@ Email: tobias.preuss [at] googlemail.com<br />
 
 ## Disclaimer
 
-Tobias Preuss is only responsible for the contents of this website. Any events that provide the app to their users are under the control of the respective event organizers and they are responsible for their contents. We cannot take any liability for the correctness or legality for these contents and kindly ask you to get in touch with the event organizer (or me, if they are not reachable), if there is a problem.<br />
+Tobias Preuss is only responsible for the contents of this website. Any events that provide the app to their users are under the control of the respective event organizers and they are responsible for their contents. I cannot take any liability for the correctness or legality for these contents and kindly ask you to get in touch with the event organizer (or me, if they are not reachable), if there is a problem.<br />
 <br />
 I took great care with assembling this website. However, I can not take any liability for the absence of errors, for the correctness, completeness, currentness or accuracy of this website. I exclude liability for all harm caused by using this website.<br />
 <br />

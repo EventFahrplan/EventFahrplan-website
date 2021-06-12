@@ -21,8 +21,8 @@
                         image: "/images/eventfahrplan-tablet-events-640x480.png",
                         imageDescription: "Grid schedule view on a tablet",
                         title: "View program by day and rooms (side by side)",
-                        description: "You are looking for guidance at an event. We got you prepared. The schedule screen presents all sessions in a neatly arranged grid, one column for each virtual or physical room. You can navigate between the rooms by swiping horizontally. A vertical swipe takes you to sessions at an earlier or later point in time.\n\n" +
-                        "You never loose track. This grid presentation allows you to intuitively understand which session take place in parallel or overlap.\n\n" +
+                        description: "You are looking for guidance at an event? We got you prepared. The schedule screen presents all sessions in a neatly arranged grid, one column for each virtual or physical room. You can navigate between the rooms by swiping horizontally. A vertical swipe takes you to sessions at an earlier or later point in time.\n\n" +
+                        "You never loose track. This grid presentation allows you to intuitively understand which session take place in parallel or overlap so you can plan your day.\n\n" +
                         "You can focus. The screen only renders one day at a time. You can simply select another day by tapping the dropdown menu at the top."
                     },
                     {
@@ -38,16 +38,16 @@
                         image: "/images/eventfahrplan-tablet-smartphone-details-640x480.png",
                         imageDescription: "Details screen on a tablet and a smartphone",
                         title: "Read detailed descriptions",
-                        description: "You have a place to rest. In the details screen you can comfortably read through the abstract and the long description of the session. Website links and email addresses are clickable right there is the text. Any website link is listed below if provided by the authors. At the bottom there is a link to the specific website of the selected session.\n\n" +
-                        "You got all the information in one place. Title, subtitle, speaker names, room name and of course the start time is there so you don't have to search for them.\n\n" +
-                        "While the session details are shown as a separate screen on a smartphone they open as an integrated view on the right side on a tablet in landscape mode."
+                        description: "You have a place to rest. In the details screen you can comfortably read through the abstract and the long description of the session. Website links and email addresses are clickable right there is the text. Additional website links are listed below the text if provided by the authors. At the bottom you find a link to the specific website of the selected session.\n\n" +
+                        "You got all the information in one place. Title, subtitle, speaker names, room name and of course the start time are there so you don't have to search for them.\n\n" +
+                        "While the session details are shown as a separate screen on a smartphone they open as an integrated view on the right side of your tablet in landscape mode."
                     },
                     {
                         imagePositionStart: true,
                         image: "/images/eventfahrplan-tablet-smartphone-favorites1-640x480.png",
                         imageDescription: "Add to favorites menu on a smartphone and star icon button on a tablet",
                         title: "Add events to favorites list",
-                        description: "Your personal program. In preparation for the event, during the happing or afterwards you can browse and choose sessions of your interest to compile a very personal program.\n\n" +
+                        description: "Your personal program. In preparation for the event, during the happening or afterwards you can browse and choose sessions of your interest to compile a very personal program.\n\n" +
                         "You can mark a session as a favorite wherever you are. On the schedule screen long-tap a session to open the context menu and add it to your favorites. It will be highlighted once it is favored. On the details screen you can favor the opened session with one tap on the star icon at the top bar of the screen."
                     },
                     {
@@ -55,8 +55,8 @@
                         image: "/images/eventfahrplan-tablet-smartphones-favorites2-640x480.png",
                         imageDescription: "Share event menu on a smartphone and favorites on a tablet",
                         title: "Manage your favorites",
-                        description: "Your selection in one place. Once you have marked all your sessions they are visually highlighted in schedule screen. Additionally, the favorites screen shows them in chronologically order separated by days.\n\n" +
-                        "Sharing is fun. Whether you want to advertise a very interesting talk on social media or notify a friend of a upcoming workshop - it is so easy. Long-tap a session in the schedule screen to open the context menu and share the session or tap the share icon at the top bar if you have the details screen open.\n\n" +
+                        description: "Your selection in one place. Once you have marked all your sessions they are visually highlighted in the schedule screen. Additionally, the favorites screen shows them in chronologically order separated by days.\n\n" +
+                        "Sharing is fun. Whether you want to advertise a very interesting talk on social media or notify a friend of a upcoming workshop - it is so easy. Long-tap a session in the schedule screen to open the context menu and share the session - or tap the share icon at the top bar if you have the details screen open.\n\n" +
                         "Your data is available. If you have the favorites screen open and you tap the share icon at top bar then you can export all your favorites in one step."
                     },
                     {
@@ -65,7 +65,7 @@
                         imageDescription: "Set alarm menu and choose alarm times on a smartphone and alarms screen on a tablet",
                         title: "Setup alarms for individual events",
                         description: "You won't miss a session. It can be challenging to remember all talks and workshops at a larger conference. No worries - we got you equipped. You can setup alarms for individual sessions.\n\n" +
-                        "You choose your alarm time. On the schedule screen long-tap a session to open the context-menu and set an alarm. On the details screen tap the bell icon at the top bar of the screen.\n\n" +
+                        "You choose your alarm time. On the schedule screen long-tap a session to open the context menu and set an alarm. On the details screen tap the bell icon at the top bar of the screen.\n\n" +
                         "You customize alarms to your taste. In the app settings you can select the default alarm time, enable insistent alarms and pick the alarm tone."
                     },
                     {
@@ -83,7 +83,7 @@
                         title: "Automatic program updates (configurable in settings)",
                         description: "You are up-to-date at all times. Regardless whether a session is added, moved to a new room or even canceled - you are informed.\n\n" +
                         "The app periodically checks for program updates and loads them from the server if needed.\n\n" +
-                        "You decide. You can disable automatic updates in the settings. To manually retrieve program updates open the schedule screen and tap the refresh entry in the overflow menu at the top bar."
+                        "You decide. You can disable automatic updates in the settings. To manually retrieve program updates visit the schedule screen and tap the refresh entry in the overflow menu at the top bar."
                     },
                     {
                         imagePositionStart: false,
