@@ -1,9 +1,3 @@
-/**
- * Client app enhancement file.
- *
- * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
- */
-
 import Buefy from 'buefy'
 import 'buefy/dist/buefy.css' // TODO Only apply to /features
 
