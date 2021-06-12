@@ -14,7 +14,7 @@ features:
 ---
 
 # Feature highlights {.appfeatures-headline .headline}
-As an end-user of the app you have all functionality at your fingertips. Here a small overview of what you can expect.
+As an end-user of the app you have all functionality at your fingertips. Here a small overview of what you can expect. Read more in the [features](features) page.
 * View program by day and rooms (side by side)
 * Custom grid layout for smartphones (try landscape mode 🙃) and tablets
 * Read detailed descriptions (speaker names, start time, room name, links, ...) of events

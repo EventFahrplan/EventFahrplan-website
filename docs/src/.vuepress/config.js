@@ -17,6 +17,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'tobias.preuss@googlemail.com',
+        link: 'mailto:tobias.preuss@googlemail.com'
+      },
+      {
         text: 'Features',
         link: '/features/',
       },
@@ -25,23 +29,10 @@ module.exports = {
         link: 'https://github.com/EventFahrplan/EventFahrplan'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+    search: false
   },
 
   plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom'
   ],
 
   markdown: {

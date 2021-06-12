@@ -80,7 +80,7 @@
                         imagePositionStart: true,
                         image: "/images/eventfahrplan-tablet-smartphone-settings-updates-640x480.png",
                         imageDescription: "Automatic updates settings on a smartphone and on a tablet   ",
-                        title: "Automatic program updates (configurable in settings)",
+                        title: "Automatic program updates",
                         description: "You are up-to-date at all times. Regardless whether a session is added, moved to a new room or even canceled - you are informed.\n\n" +
                         "The app periodically checks for program updates and loads them from the server if needed.\n\n" +
                         "You decide. You can disable automatic updates in the settings. To manually retrieve program updates visit the schedule screen and tap the refresh entry in the overflow menu at the top bar."
