@@ -33,6 +33,18 @@ module.exports = {
   },
 
   plugins: [
+    [
+      'vuepress-plugin-medium-zoom',
+      {
+        selector: '.app-features-details img',
+        delay: 1000,
+        options: {
+          margin: 24,
+          background: '#f5f5f5ee',
+          scrollOffset: 0,
+        },
+      },
+    ],
   ],
 
   markdown: {
