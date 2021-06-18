@@ -6,15 +6,13 @@ pageClass: meta
 
 ## Contact
 
-This website and the EventFahrplan apps are operated by<br />
-<br />
-Tobias Preuss<br />
-Ritterlandweg 54e<br /> 
-13409 Berlin<br />
-Germany<br />
-<br />
-Email: tobias.preuss [at] googlemail.com<br />
-<br />
+This website and the EventFahrplan apps are operated by
+
+> Tobias Preuss  
+> Ritterlandweg 54e  
+> 13409 Berlin  
+> Germany  
+> E-mail: tobias.preuss+eventfahrplan@googlemail.com
 
 ## Disclaimer
 
