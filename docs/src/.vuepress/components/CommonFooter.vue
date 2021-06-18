@@ -9,7 +9,7 @@
             <p>
                 <a href="/imprint/">Imprint</a>
                  ·
-                <a href="/privacy-policy/">Privacy policy (German)</a>
+                <a href="/privacy-policy/">Privacy policy</a>
                  ·
                 <a href="https://github.com/EventFahrplan/EventFahrplan-website">Source code</a>
             </p>
