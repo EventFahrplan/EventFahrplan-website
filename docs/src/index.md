@@ -8,30 +8,30 @@ features:
 - title: Unique layout
   details: The grid layout allows to intuitively see which sessions take place in parallel or overlap.
 - title: Offline first
-  details: Never loose access to your personal event schedule - always available and functional on your device.
+  details: Your personal event schedule always works on your device, independent of your connectivity status.
 - title: Open source
   details: The source code of this project is available and will always be accessible for you in the future.
 ---
 
 # Feature highlights {.appfeatures-headline .headline}
-As an end-user of the app you have all functionality at your fingertips. Here a small overview of what you can expect. Read more in the [features](features) page.
+As an end-user of the app you have full functionality at your fingertips. Here is a small overview of what you can expect. Read more on the [features](features) page.
 * View program by day and rooms (side by side)
 * Custom grid layout for smartphones (try landscape mode 🙃) and tablets
-* Read detailed descriptions (speaker names, start time, room name, links, ...) of events
+* Read detailed descriptions of events (speaker names, start time, room name, links, ...)
 * Add events to favorites list
 * Manage your favorites
 * Setup alarms for individual events
 * Add events to your personal calendar
 * Share a website link to an event with others
-* Automatic program updates (configurable in settings)
+* Make use of automatic program updates (configurable in settings)
 * Keep track of program changes
 * Vote and leave comments on talks and workshops
 {.appfeatures .content-list}
 
 # Integrations {.appintegrations-headline .headline}
-The app is built to be extendable to be integrated with out software systems. The following projects are already supported and can be enabled as needed.
+The app is built to be extendable and to be integrated with other software systems. The following projects are already supported and can be enabled as needed.
 * If you are using the [c3nav indoor navigation](https://c3nav.de) then EventFahrplan has a navigation option right at the session details screen ready for you to find your way to the next room.
-* If your using the [Engelsystem project](https://engelsystem.de) for coordinating helpers and work shifts at your event then you can make helpers happy! EventFahrplan supports loading personal work shifts from the Engelsystem into the app.
+* If your using the [Engelsystem project](https://engelsystem.de) for coordinating helpers and working shifts at your event then you can make helpers happy! EventFahrplan supports loading personal working shifts from the Engelsystem into the app.
 * If you are storing your session recordings at [media.ccc.de](http://media.ccc.de) we recommend using the [Chaosflix Android app](https://github.com/NiciDieNase/chaosflix) to consume the videos. EventFahrplan allows to share favorites with Chaosflix to have your playlist ready in seconds.
 {.appintegrations .content-list}
 
@@ -50,7 +50,7 @@ The user interface of EventFahrplan can be translated into any language. Session
 {.applanguages .content-list}
 
 # Steady events & happy users {.appusers-headline .headline}
-The EvenFahrplan has proven since 2011 to be very useful at small and large events such as the Chaos Communication Congress with 17,000 visitors (numbers from 2019).
+The EvenFahrplan has proven since 2011 to be very useful at small and large events such as the Chaos Communication Congress with 17,000 visitors (numbers from 2019). Here is a selection of events which used the EventFahrplan app.
 * Chaos Communication Congress {.ccc}
 * Chaos Communication Camp {.cccamp}
 * FOSDEM {.fosdem}
