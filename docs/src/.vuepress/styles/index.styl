@@ -5,6 +5,28 @@
   a.home-link:hover span
     color $accentColor !important
 
+.nav-links
+  .nav-item:nth-child(1)
+    display inline-block
+    font-size 1.05rem
+    padding 0.2rem 1.6rem
+    transition background-color 0.1s ease
+    color #fff
+    background-color $accentColor
+    border-radius 4px
+    box-sizing border-box
+    border-bottom 1px solid darken($accentColor, 20%)
+    a.router-link-active
+      color #fff !important
+      text-decoration none !important
+  .nav-item:nth-child(1):hover
+    background-color lighten($accentColor, 8%)
+    cursor pointer
+    a
+      color #fff !important
+      text-decoration none !important
+
+
 .home
   .hero
     img

@@ -33,8 +33,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'tobias.preuss@googlemail.com',
-        link: 'mailto:tobias.preuss@googlemail.com'
+        text: 'Get in touch',
+        link: '/contact/'
       },
       {
         text: 'Features',
