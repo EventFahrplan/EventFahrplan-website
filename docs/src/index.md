@@ -68,6 +68,8 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * Hackover {.hackover}
 * GPN {.gpn}
 * PGCon 2018 {.pgcon}
+* FOSS4G 2021 {.foss4g}
+* DebConf 2021 {.debconf}
 {.appevents .content-list}
 
 <CommonFooter />
