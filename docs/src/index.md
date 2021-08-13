@@ -62,6 +62,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * DiVOC {.divoc}
 * rC3 {.rc3}
 * Droidcon Berlin {.droidcon-berlin}
+* Cryptorave 2019 {.cryptorave}
 * KotlinConf 2019 {.kotlinconf}
 * Bits & Bäume {.bitsbaeume}
 * FIfFKon {.fiffkon}
