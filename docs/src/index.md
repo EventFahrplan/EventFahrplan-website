@@ -71,6 +71,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * PGCon 2018 {.pgcon}
 * FOSS4G 2021 {.foss4g}
 * DebConf 2021 {.debconf}
+* LibreOffice 2021 {.libreoffice}
 {.appevents .content-list}
 
 <CommonFooter />
