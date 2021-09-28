@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/hero.png
-tagline: An Android app to enjoy event schedules powered by Frab or Pretalx.
+tagline: An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer.
 actionText: All features →
 actionLink: /features/
 features:
