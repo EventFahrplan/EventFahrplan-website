@@ -1,7 +1,7 @@
 {
   "name": "EventFahrplan",
   "version": "0.0.1",
-  "description": "An Android app to enjoy event schedules powered by Frab or Pretalx.",
+  "description": "An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer.",
   "main": "index.js",
   "authors": {
     "name": "Tobias Preuss",
