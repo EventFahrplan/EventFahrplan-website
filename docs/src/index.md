@@ -60,7 +60,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * Datenspuren {.datenspuren}
 * taz lab {.tazlab}
 * DiVOC {.divoc}
-* rC3 {.rc3}
+* rC3 {.rc3-2020}
 * Droidcon Berlin {.droidcon-berlin}
 * Cryptorave 2019 {.cryptorave}
 * KotlinConf 2019 {.kotlinconf}
