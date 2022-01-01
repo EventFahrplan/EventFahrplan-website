@@ -73,6 +73,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * DebConf 2021 {.debconf}
 * LibreOffice 2021 {.libreoffice}
 * PyConZA 2021 {.pyconza}
+* rC3 2021 {.rc3-2021}
 {.appevents .content-list}
 
 <CommonFooter />
