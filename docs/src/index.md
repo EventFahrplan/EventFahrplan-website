@@ -75,6 +75,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * LibreOffice 2021 {.libreoffice}
 * PyConZA 2021 {.pyconza}
 * rC3 2021 {.rc3-2021}
+* Chemnitzer Linux-Tage 2022 {.clt}
 {.appevents .content-list}
 
 <CommonFooter />
