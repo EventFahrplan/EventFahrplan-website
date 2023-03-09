@@ -19,7 +19,7 @@
   "dependencies": {
     "buefy": "^0.9.23",
     "country-flag-icons": "^1.5.5",
-    "markdown-it-attrs": "^4.0.0",
+    "markdown-it-attrs": "^4.1.6",
     "vue-devtools": "^5.1.4",
     "vuepress-plugin-medium-zoom": "^1.1.9"
   }
