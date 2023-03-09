@@ -17,7 +17,7 @@
     "vuepress": "^1.5.3"
   },
   "dependencies": {
-    "buefy": "^0.9.7",
+    "buefy": "^0.9.23",
     "country-flag-icons": "^1.2.10",
     "markdown-it-attrs": "^4.0.0",
     "vue-devtools": "^5.1.4",
