@@ -83,6 +83,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * Auerworld 2022 {.auerworld}
 * Acronia 2022 {.acronia}
 * JEV 2022 {.jev}
+* AndroidMakers 2023 {.androidmakers}
 {.appevents .content-list}
 
 <CommonFooter />
