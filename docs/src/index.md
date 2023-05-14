@@ -65,7 +65,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * Droidcon Berlin {.droidcon-berlin}
 * Privacy Week Wien {.privacyweek}
 * Cryptorave 2019 {.cryptorave}
-* KotlinConf 2019 {.kotlinconf}
+* KotlinConf 2023 {.kotlinconf}
 * Bits & Bäume {.bitsbaeume}
 * FIfFKon {.fiffkon}
 * Hackover {.hackover}
