@@ -57,7 +57,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * FOSDEM {.fosdem}
 * FOSSGIS conference {.fossgis}
 * MRMCD {.mrmcd}
-* FROSCON {.froscon}
+* FrOSCon 2023 {.froscon}
 * Datenspuren {.datenspuren}
 * taz lab {.tazlab}
 * DiVOC {.divoc}
