@@ -68,7 +68,7 @@ The EvenFahrplan has proven since 2011 to be very useful at small and large even
 * KotlinConf 2023 {.kotlinconf}
 * Bits & Bäume {.bitsbaeume}
 * FIfFKon {.fiffkon}
-* Hackover {.hackover}
+* Hackover 2023 {.hackover}
 * GPN 2023 {.gpn}
 * PGCon 2018 {.pgcon}
 * FOSS4G 2023 {.foss4g}
