@@ -37,8 +37,10 @@ The app is built to be extendable and to be integrated with other software syste
 
 # Supported languages {.applanguages-headline .headline}
 The user interface of EventFahrplan can be translated into any language. Session descriptions must be edited by the event host. Currently, the following languages are ready to use:
+* Danish {.da}
 * Dutch {.nl}
 * English {.us}
+* Finnish {.fi}
 * French {.fr}
 * German {.de}
 * Italian {.it}
