@@ -4,7 +4,7 @@ pageClass: appfeatures-details
 
 # Features
 
-You want to know more about the functionality? Here are the user facing features described in further details.
+Want to know more about the functionality? Here are the user-facing features described in more detail.
 
 <div class="columns mt-4">
     <AppFeatureDetails />

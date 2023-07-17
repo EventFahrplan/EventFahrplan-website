@@ -8,13 +8,13 @@ features:
 - title: Unique layout
   details: The grid layout allows to intuitively see which sessions take place in parallel or overlap.
 - title: Offline first
-  details: Your personal event schedule always works on your device, independent of your connectivity status.
+  details: Your personal event schedule always works on your device, regardless of your connection status.
 - title: Open source
   details: The source code of this project is available and will always be accessible for you in the future.
 ---
 
 # Feature highlights {.appfeatures-headline .headline}
-As an end-user of the app you have full functionality at your fingertips. Here is a small overview of what you can expect. Read more on the [features](features) page.
+As an end user of the app you have full functionality at your fingertips. Here is a brief overview of what you can expect. Read more on the [features](features) page.
 * View program by day and rooms (side by side)
 * Custom grid layout for smartphones (try landscape mode 🙃) and tablets
 * Read detailed descriptions of events (speaker names, start time, room name, links, ...)
@@ -29,14 +29,14 @@ As an end-user of the app you have full functionality at your fingertips. Here i
 {.appfeatures .content-list}
 
 # Integrations {.appintegrations-headline .headline}
-The app is built to be extendable and to be integrated with other software systems. The following projects are already supported and can be enabled as needed.
-* If you are using the [c3nav indoor navigation](https://c3nav.de) then EventFahrplan has a navigation option right at the session details screen ready for you to find your way to the next room.
-* If your using the [Engelsystem project](https://engelsystem.de) for coordinating helpers and working shifts at your event then you can make helpers happy! EventFahrplan supports loading personal working shifts from the Engelsystem into the app.
-* If you are storing your session recordings at [media.ccc.de](http://media.ccc.de) we recommend using the [Chaosflix Android app](https://github.com/NiciDieNase/chaosflix) to consume the videos. EventFahrplan allows to share favorites with Chaosflix to have your playlist ready in seconds.
+The app is designed to be extensible and integrate with other software systems. The following projects are already supported and can be enabled as needed.
+* If you are using the [c3nav indoor navigation](https://c3nav.de), then EventFahrplan has a navigation option right on the session details screen ready for you to find your way to the next room.
+* If you use the [Engelsystem project](https://engelsystem.de) to coordinate helpers and work shifts at your event then you can make your helpers happy! EventFahrplan supports loading personal working shifts from the Engelsystem into the app.
+* If you save your session recordings at [media.ccc.de](http://media.ccc.de) we recommend to use the [Chaosflix Android app](https://github.com/NiciDieNase/chaosflix) to watch the videos. EventFahrplan allows you to share your favorites with Chaosflix to have your playlist ready in seconds.
 {.appintegrations .content-list}
 
 # Supported languages {.applanguages-headline .headline}
-The user interface of EventFahrplan can be translated into any language. Session descriptions must be edited by the event host. Currently, the following languages are ready to use:
+The user interface of EventFahrplan can be translated into any language. Session descriptions have to be edited by the organizer. The following languages are currently available:
 * Danish {.da}
 * Dutch {.nl}
 * English {.us}
@@ -53,7 +53,7 @@ The user interface of EventFahrplan can be translated into any language. Session
 {.applanguages .content-list}
 
 # Steady events & happy users {.appusers-headline .headline}
-The EvenFahrplan has proven since 2011 to be very useful at small and large events such as the Chaos Communication Congress with 17,000 visitors (numbers from 2019). Here is a selection of events which used the EventFahrplan app.
+The EvenFahrplan app has proven since 2011 to be very useful at small and large events such as the Chaos Communication Congress with 17,000 visitors (figures from 2019). Here is a selection of events which used the EventFahrplan app.
 * Chaos Communication Congress 2019 {.ccc}
 * Chaos Communication Camp 2023 {.cccamp}
 * FOSDEM {.fosdem}
