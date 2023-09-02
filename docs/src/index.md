@@ -60,7 +60,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * FOSSGIS conference {.fossgis}
 * MRMCD 2023 {.mrmcd}
 * FrOSCon 2023 {.froscon}
-* Datenspuren {.datenspuren}
+* Datenspuren 2023 {.datenspuren}
 * taz lab {.tazlab}
 * DiVOC {.divoc}
 * rC3 {.rc3-2020}
