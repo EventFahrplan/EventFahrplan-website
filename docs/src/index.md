@@ -67,6 +67,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * Droidcon Berlin {.droidcon-berlin}
 * Privacy Week Wien {.privacyweek}
 * Cryptorave 2019 {.cryptorave}
+* LSWT 2018 {.lswt}
 * KotlinConf 2023 {.kotlinconf}
 * Bits & Bäume {.bitsbaeume}
 * FIfFKon {.fiffkon}
