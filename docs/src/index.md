@@ -51,6 +51,7 @@ The user interface of EventFahrplan can be translated into any language. Session
 * Russian {.ru}
 * Spanish {.es}
 * Swedish {.se}
+* Turkish {.tr}
 {.applanguages .content-list}
 
 # Steady events & happy users {.appusers-headline .headline}
