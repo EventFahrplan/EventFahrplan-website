@@ -70,7 +70,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * Privacy Week Wien {.privacyweek}
 * Cryptorave 2019 {.cryptorave}
 * LSWT 2018 {.lswt}
-* KotlinConf 2023 {.kotlinconf}
+* KotlinConf 2024 {.kotlinconf}
 * Bits & Bäume {.bitsbaeume}
 * FIfFKon {.fiffkon}
 * Hackover 2023 {.hackover}
