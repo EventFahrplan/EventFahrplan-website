@@ -8,5 +8,5 @@ This website is mobile-optimized and built with [VuePress](https://vuepress.vuej
 ## How to run
 
 ```
-cd docs && npm run build
+cd docs && npm run dev
 ```
