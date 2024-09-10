@@ -47,7 +47,8 @@ The user interface of EventFahrplan can be translated into any language. Session
 * Japanese {.jp}
 * Lithuanian {.lt}
 * Polish {.pl}
-* Portuguese {.pt}
+* Portuguese, Brazil {.br}
+* Portuguese, Portugal {.pt}
 * Russian {.ru}
 * Spanish {.es}
 * Swedish {.se}
