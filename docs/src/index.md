@@ -92,6 +92,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * JEV 2022 {.jev}
 * AndroidMakers 2023 {.androidmakers}
 * Easterhegg 2024 {.easterhegg}
+* ToorCamp 2024 {.toorcamp}
 {.appevents .content-list}
 
 <CommonFooter />
