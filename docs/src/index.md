@@ -18,6 +18,7 @@ As an end user of the app you have full functionality at your fingertips. Here i
 * View program by day and rooms (side by side)
 * Custom grid layout for smartphones (try landscape mode 🙃) and tablets
 * Read detailed descriptions of events (speaker names, start time, room name, links, ...)
+* Search through all events
 * Add events to favorites list
 * Manage your favorites
 * Setup alarms for individual events
