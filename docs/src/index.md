@@ -95,6 +95,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * Easterhegg 2024 {.easterhegg}
 * ToorCamp 2024 {.toorcamp}
 * EMF 2024 {.emf}
+* Protocol Berg 2025 {.protocolberg}
 {.appevents .content-list}
 
 <CommonFooter />
