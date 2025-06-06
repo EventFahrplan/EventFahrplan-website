@@ -61,7 +61,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * Chaos Communication Congress 2024 {.ccc}
 * Chaos Communication Camp 2023 {.cccamp}
 * FOSDEM {.fosdem}
-* FOSSGIS conference {.fossgis}
+* FOSSGIS 2025 conference {.fossgis}
 * MRMCD 2024 {.mrmcd}
 * FrOSCon 2023 {.froscon}
 * Datenspuren 2024 {.datenspuren}
