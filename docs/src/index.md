@@ -75,7 +75,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * KotlinConf 2025 {.kotlinconf}
 * Bits & Bäume {.bitsbaeume}
 * FIfFKon {.fiffkon}
-* Hackover 2023 {.hackover}
+* Hackover 2025 {.hackover}
 * GPN 2025 {.gpn}
 * PGCon 2018 {.pgcon}
 * FOSS4G 2024 {.foss4g}
