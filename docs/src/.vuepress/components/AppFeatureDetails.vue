@@ -46,14 +46,14 @@
                         imagePositionStart: true,
                         image: "/images/eventfahrplan-tablet-smartphone-favorites1-640x480.png",
                         imageDescription: "Add to favorites menu on a smartphone and star icon button on a tablet",
-                        title: "Add events to favorites list",
+                        title: "Add sessions to favorites list",
                         description: "You create your personal program. In preparation for the event, during the happening or afterwards you can browse and choose sessions of your interest to compile a very personal program.\n\n" +
                         "You can mark a session as a favorite wherever you are. On the schedule screen long-tap a session to open the context menu and add it to your favorites. It will be highlighted once it is favored. On the details screen you can favor the opened session with one tap on the star icon at the top bar."
                     },
                     {
                         imagePositionStart: false,
                         image: "/images/eventfahrplan-tablet-smartphones-favorites2-640x480.png",
-                        imageDescription: "Share event menu on a smartphone and favorites on a tablet",
+                        imageDescription: "Share session menu on a smartphone and favorites on a tablet",
                         title: "Manage your favorites",
                         description: "Your selection in one place. Once you have marked all your sessions they are visually highlighted on the schedule screen. Additionally, the favorites screen shows them in chronological order separated by days.\n\n" +
                         "You can easily share. Do you want to advertise a very interesting talk on social media or notify a friend of an upcoming workshop? No problem! Long-tap a session on the schedule screen to open the context menu and share the session - or tap the share icon at the top bar if you have the details screen open.\n\n" +
@@ -63,7 +63,7 @@
                         imagePositionStart: true,
                         image: "/images/eventfahrplan-tablet-smartphones-alarms-640x480.png",
                         imageDescription: "Set alarm menu and choose alarm times on a smartphone and alarms screen on a tablet",
-                        title: "Setup alarms for individual events",
+                        title: "Setup alarms for individual sessions",
                         description: "You won't miss a session. It can be challenging to remember all talks and workshops at a larger conference. No worries - we've got you covered. You can setup alarms for individual sessions.\n\n" +
                         "You choose your alarm time. On the schedule screen long-tap a session to open the context menu and set an alarm. On the details screen tap the bell icon at the top bar.\n\n" +
                         "You customize alarms to your taste. On the settings screen you can select the default alarm time, enable insistent alarms and pick the alarm tone."
@@ -72,7 +72,7 @@
                         imagePositionStart: false,
                         image: "/images/eventfahrplan-tablet-smartphone-calendar-640x480.png",
                         imageDescription: "Calendar icon on a smartphone and on a tablet",
-                        title: "Add events to your personal calendar",
+                        title: "Add sessions to your personal calendar",
                         description: "You have the full session information available to add it to your calendar if you like to. The start and end time of the session are automatically used to construct the correct time and duration of the calendar entry.\n\n" +
                         "On the schedule screen long-tap a session and choose add to calendar. On the details screen tap the calendar icon at the top bar."
                     },

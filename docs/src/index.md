@@ -17,13 +17,13 @@ features:
 As an end user of the app you have full functionality at your fingertips. Here is a brief overview of what you can expect. Read more on the [features](features) page.
 * View program by day and rooms (side by side)
 * Custom grid layout for smartphones (try landscape mode 🙃) and tablets
-* Read detailed descriptions of events (speaker names, start time, room name, links, ...)
-* Search through all events
-* Add events to favorites list
+* Read detailed descriptions of sessions (speaker names, start time, room name, links, ...)
+* Search through all sessions
+* Add sessions to favorites list
 * Manage your favorites
-* Setup alarms for individual events
-* Add events to your personal calendar
-* Share a website link to an event with others
+* Setup alarms for individual sessions
+* Add sessions to your personal calendar
+* Share a website link to a session with others
 * Make use of automatic program updates (configurable in settings)
 * Keep track of program changes
 * Vote and leave comments on talks and workshops
