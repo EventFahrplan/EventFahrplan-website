@@ -68,7 +68,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * taz lab {.tazlab}
 * DiVOC {.divoc}
 * rC3 {.rc3-2020}
-* Droidcon Berlin {.droidcon-berlin}
+* Droidcon Berlin 2025 {.droidcon-berlin}
 * Privacy Week Wien {.privacyweek}
 * Cryptorave 2019 {.cryptorave}
 * LSWT 2018 {.lswt}
