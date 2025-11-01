@@ -92,7 +92,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * Acronia 2022 {.acronia}
 * JEV 2022 {.jev}
 * AndroidMakers 2023 {.androidmakers}
-* Easterhegg 2024 {.easterhegg}
+* Easterhegg 2025 {.easterhegg}
 * ToorCamp 2024 {.toorcamp}
 * EMF 2024 {.emf}
 * Protocol Berg 2025 {.protocolberg}
