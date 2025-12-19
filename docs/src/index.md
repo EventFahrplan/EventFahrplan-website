@@ -58,7 +58,7 @@ The user interface of EventFahrplan can be translated into any language. Session
 
 # Steady events & happy users {.appusers-headline .headline}
 The EvenFahrplan app has proven since 2011 to be very useful at small and large events such as the Chaos Communication Congress with 17,000 visitors (figures from 2019). Here is a selection of events which used the EventFahrplan app.
-* Chaos Communication Congress 2024 {.ccc}
+* Chaos Communication Congress 2025 {.ccc}
 * Chaos Communication Camp 2023 {.cccamp}
 * FOSDEM {.fosdem}
 * FOSSGIS 2025 conference {.fossgis}
