@@ -96,6 +96,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * ToorCamp 2024 {.toorcamp}
 * EMF 2024 {.emf}
 * Protocol Berg 2025 {.protocolberg}
+* Winterkongress {.winterkongress}
 {.appevents .content-list}
 
 <CommonFooter />
