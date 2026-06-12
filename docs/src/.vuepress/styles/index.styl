@@ -61,144 +61,154 @@
 .appevents
   margin-top 1rem
   display flex
-  flex-flow row wrap
-  flex-direction row
+  flex-wrap wrap
   justify-content space-between
-  align-content space-between
   list-style none
 
   li
-    height 6rem
+    display flex
+    flex-direction column
+    align-items center
+    text-align center
+    flex 0 0 6rem
     width 6rem
-    overflow hidden
     margin 0.5rem
-    padding 0.5rem
-    border-radius: 14px
-  
-  li:before
-    display inline-block
-    font-size 0
-    line-height 0
+    padding 0
+    border-radius 14px
+    word-break break-word
+    font-size 0.65rem
+    line-height 1.15
 
-  .acrolotl
-    content: url("/images/appicon-acrolotl.png")
+  li::before
+    content ''
+    display block
+    width 5rem
+    height 5rem
+    flex-shrink 0
+    margin-bottom 0.35rem
+    background-size contain
+    background-repeat no-repeat
+    background-position center
 
-  .acronia
-    content: url("/images/appicon-acronia.png")
+  li.acrolotl::before
+    background-image url("/images/appicon-acrolotl.png")
 
-  .androidmakers
-    content: url("/images/appicon-androidmakers.png")
+  li.acronia::before
+    background-image url("/images/appicon-acronia.png")
 
-  .auerworld
-    content: url("/images/appicon-auerworld.png")
+  li.androidmakers::before
+    background-image url("/images/appicon-androidmakers.png")
 
-  .bitsbaeume
-    content: url("/images/appicon-bitsbaeume-2022.png")
+  li.auerworld::before
+    background-image url("/images/appicon-auerworld.png")
 
-  .ccc
-    content: url("/images/appicon-39c3-2025.png")
+  li.bitsbaeume::before
+    background-image url("/images/appicon-bitsbaeume-2022.png")
 
-  .cccamp
-    content: url("/images/appicon-cccamp-2023.png")
+  li.ccc::before
+    background-image url("/images/appicon-39c3-2025.png")
 
-  .cfgmgmntcamp
-    content: url("/images/appicon-cfgmgmntcamp.png")
+  li.cccamp::before
+    background-image url("/images/appicon-cccamp-2023.png")
 
-  .clt
-    content: url("/images/appicon-clt-2026.png")
+  li.cfgmgmntcamp::before
+    background-image url("/images/appicon-cfgmgmntcamp.png")
 
-  .cryptorave
-    content: url("/images/appicon-cryptorave-2019.png")
+  li.clt::before
+    background-image url("/images/appicon-clt-2026.png")
 
-  .datenspuren
-    content: url("/images/appicon-datenspuren-2025.png")
+  li.cryptorave::before
+    background-image url("/images/appicon-cryptorave-2019.png")
 
-  .debconf
-    content: url("/images/appicon-debconf-2021.png")
+  li.datenspuren::before
+    background-image url("/images/appicon-datenspuren-2025.png")
 
-  .divoc
-    content: url("/images/appicon-divoc-r2r-2021.png")
+  li.debconf::before
+    background-image url("/images/appicon-debconf-2021.png")
 
-  .droidcon-berlin
-    content: url("/images/appicon-droidcon-berlin-2025.png")
+  li.divoc::before
+    background-image url("/images/appicon-divoc-r2r-2021.png")
 
-  .easterhegg
-      content: url("/images/appicon-easterhegg-2025.png")
+  li.droidcon-berlin::before
+    background-image url("/images/appicon-droidcon-berlin-2025.png")
 
-  .emf
-      content: url("/images/appicon-emf-2024.png")
+  li.easterhegg::before
+    background-image url("/images/appicon-easterhegg-2025.png")
 
-  .fiffkon
-    content: url("/images/appicon-fiffkon-2018.png")
+  li.emf::before
+    background-image url("/images/appicon-emf-2024.png")
 
-  .fosdem
-    content: url("/images/appicon-fosdem-2021.png")
+  li.fiffkon::before
+    background-image url("/images/appicon-fiffkon-2018.png")
 
-  .fossgis
-    content: url("/images/appicon-fossgis-2026.png")
+  li.fosdem::before
+    background-image url("/images/appicon-fosdem-2021.png")
 
-  .foss4g
-    content: url("/images/appicon-foss4g-2024.png")
+  li.fossgis::before
+    background-image url("/images/appicon-fossgis-2026.png")
 
-  .foss4ge
-    content: url("/images/appicon-foss4g-europe-2025.png")
+  li.foss4g::before
+    background-image url("/images/appicon-foss4g-2024.png")
 
-  .froscon
-    content: url("/images/appicon-froscon-2025.png")
+  li.foss4ge::before
+    background-image url("/images/appicon-foss4g-europe-2025.png")
 
-  .glt
-    content: url("/images/appicon-glt-2022.png")
+  li.froscon::before
+    background-image url("/images/appicon-froscon-2025.png")
 
-  .gpn
-    content: url("/images/appicon-gpn-2026.png")
+  li.glt::before
+    background-image url("/images/appicon-glt-2022.png")
 
-  .hackover
-    content: url("/images/appicon-hackover-2025.png")
+  li.gpn::before
+    background-image url("/images/appicon-gpn-2026.png")
 
-  .hope
-    content: url("/images/appicon-hope-2025.png")
+  li.hackover::before
+    background-image url("/images/appicon-hackover-2025.png")
 
-  .jev
-    content: url("/images/appicon-jev-2022.png")
+  li.hope::before
+    background-image url("/images/appicon-hope-2025.png")
 
-  .kotlinconf
-    content: url("/images/appicon-kotlinconf-2025.png")
+  li.jev::before
+    background-image url("/images/appicon-jev-2022.png")
 
-  .libreoffice
-    content: url("/images/appicon-libreoffice-2022.png")
+  li.kotlinconf::before
+    background-image url("/images/appicon-kotlinconf-2025.png")
 
-  .lswt
-    content: url("/images/appicon-lswt-2018.png")
+  li.libreoffice::before
+    background-image url("/images/appicon-libreoffice-2022.png")
 
-  .mrmcd
-    content: url("/images/appicon-mrmcd-2025.png")
+  li.lswt::before
+    background-image url("/images/appicon-lswt-2018.png")
 
-  .pyconza
-    content: url("/images/appicon-pyconza-2021.png")
+  li.mrmcd::before
+    background-image url("/images/appicon-mrmcd-2025.png")
 
-  .pgcon
-    content: url("/images/appicon-pgcon.png")
+  li.pyconza::before
+    background-image url("/images/appicon-pyconza-2021.png")
 
-  .privacyweek
-    content: url("/images/appicon-privacyweek.png")
+  li.pgcon::before
+    background-image url("/images/appicon-pgcon.png")
 
-  .protocolberg
-    content: url("/images/appicon-protocolberg-2025.png")
+  li.privacyweek::before
+    background-image url("/images/appicon-privacyweek.png")
 
-  .rc3-2020
-    content: url("/images/appicon-rc3-2020.png")
+  li.protocolberg::before
+    background-image url("/images/appicon-protocolberg-2025.png")
 
-  .rc3-2021
-    content: url("/images/appicon-rc3-2021.png")
+  li.rc3-2020::before
+    background-image url("/images/appicon-rc3-2020.png")
 
-  .tazlab
-    content: url("/images/appicon-taz-lab-2019.png")
+  li.rc3-2021::before
+    background-image url("/images/appicon-rc3-2021.png")
 
-  .toorcamp
-    content: url("/images/appicon-toorcamp-2024.png")
+  li.tazlab::before
+    background-image url("/images/appicon-taz-lab-2019.png")
 
-  .winterkongress
-    content: url("/images/appicon-winterkongress.png")
+  li.toorcamp::before
+    background-image url("/images/appicon-toorcamp-2024.png")
+
+  li.winterkongress::before
+    background-image url("/images/appicon-winterkongress.png")
 
 .feature h2
   padding-left: 30px
