@@ -97,6 +97,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * EMF 2024 {.emf}
 * Protocol Berg 2025 {.protocolberg}
 * Winterkongress {.winterkongress}
+* Configuration Management Camp {.cfgmgmntcamp}
 {.appevents .content-list}
 
 <CommonFooter />
