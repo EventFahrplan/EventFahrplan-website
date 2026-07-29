@@ -59,44 +59,44 @@ The user interface of EventFahrplan can be translated into any language. Session
 
 # Steady events & happy users {.appusers-headline .headline}
 The EvenFahrplan app has proven since 2011 to be very useful at small and large events such as the Chaos Communication Congress with 17,000 visitors (figures from 2019). Here is a selection of events which used the EventFahrplan app.
-* Chaos Communication Congress 2025 {.ccc}
-* Chaos Communication Camp 2023 {.cccamp}
+* Chaos Communication Congress 2025 {.ccc .rounded}
+* Chaos Communication Camp 2023 {.cccamp .rounded}
 * FOSDEM {.fosdem}
 * FOSSGIS 2026 conference {.fossgis}
 * MRMCD 2025 {.mrmcd}
-* FrOSCon 2026 {.froscon}
-* Datenspuren 2025 {.datenspuren}
+* FrOSCon 2026 {.froscon .rounded}
+* Datenspuren 2025 {.datenspuren .rounded}
 * taz lab {.tazlab}
-* DiVOC {.divoc}
-* rC3 {.rc3-2020}
-* Droidcon Berlin 2025 {.droidcon-berlin}
-* Privacy Week Wien {.privacyweek}
-* Cryptorave 2019 {.cryptorave}
+* DiVOC {.divoc .rounded}
+* rC3 {.rc3-2020 .rounded}
+* Droidcon Berlin 2025 {.droidcon-berlin .rounded}
+* Privacy Week Wien {.privacyweek .rounded}
+* Cryptorave 2019 {.cryptorave .rounded}
 * LSWT 2018 {.lswt}
-* KotlinConf 2025 {.kotlinconf}
+* KotlinConf 2025 {.kotlinconf .rounded}
 * Bits & Bäume {.bitsbaeume}
 * FIfFKon {.fiffkon}
-* Hackover 2026 {.hackover}
-* GPN 2026 {.gpn}
+* Hackover 2026 {.hackover .rounded}
+* GPN 2026 {.gpn .rounded}
 * PGCon 2018 {.pgcon}
 * FOSS4G 2024 {.foss4g}
 * FOSS4G Europe 2025 {.foss4ge}
 * DebConf 2021 {.debconf}
 * LibreOffice 2021 {.libreoffice}
-* PyConZA 2021 {.pyconza}
-* rC3 2021 {.rc3-2021}
-* Chemnitzer Linux-Tage 2026 {.clt}
+* PyConZA 2021 {.pyconza .rounded}
+* rC3 2021 {.rc3-2021 .rounded}
+* Chemnitzer Linux-Tage 2026 {.clt .rounded}
 * Grazer Linuxtage 2024 {.glt}
-* HOPE 2025 {.hope}
-* Acrolotl 2022 {.acrolotl}
+* HOPE 2025 {.hope .rounded}
+* Acrolotl 2022 {.acrolotl .rounded}
 * Auerworld 2022 {.auerworld}
 * Acronia 2022 {.acronia}
-* JEV 2022 {.jev}
-* AndroidMakers 2023 {.androidmakers}
-* Easterhegg 2025 {.easterhegg}
-* ToorCamp 2024 {.toorcamp}
-* EMF 2024 {.emf}
-* Protocol Berg 2025 {.protocolberg}
+* JEV 2022 {.jev .rounded}
+* AndroidMakers 2023 {.androidmakers .rounded}
+* Easterhegg 2025 {.easterhegg .rounded}
+* ToorCamp 2024 {.toorcamp .rounded}
+* EMF 2024 {.emf .rounded}
+* Protocol Berg 2025 {.protocolberg .rounded}
 * Winterkongress {.winterkongress}
 * Configuration Management Camp {.cfgmgmntcamp}
 {.appevents .content-list}
