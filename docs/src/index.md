@@ -64,7 +64,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * FOSDEM {.fosdem}
 * FOSSGIS 2026 conference {.fossgis}
 * MRMCD 2025 {.mrmcd}
-* FrOSCon 2025 {.froscon}
+* FrOSCon 2026 {.froscon}
 * Datenspuren 2025 {.datenspuren}
 * taz lab {.tazlab}
 * DiVOC {.divoc}
