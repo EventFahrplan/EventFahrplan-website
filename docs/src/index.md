@@ -87,7 +87,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * rC3 2021 {.rc3-2021 .rounded}
 * Chemnitzer Linux-Tage 2026 {.clt .rounded}
 * Grazer Linuxtage 2024 {.glt}
-* HOPE 2025 {.hope .rounded}
+* HOPE 2026 {.hope .rounded}
 * Acrolotl 2022 {.acrolotl .rounded}
 * Auerworld 2022 {.auerworld}
 * Acronia 2022 {.acronia}
