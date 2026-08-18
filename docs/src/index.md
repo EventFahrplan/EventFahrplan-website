@@ -100,6 +100,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * Winterkongress {.winterkongress}
 * Configuration Management Camp {.cfgmgmntcamp}
 * InselChaos 2026 {.inselchaos .rounded}
+* Håck ma's Castle 2026 {.hackmas-castle}
 {.appevents .content-list}
 
 <CommonFooter />
