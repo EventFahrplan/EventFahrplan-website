@@ -99,6 +99,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * Protocol Berg 2025 {.protocolberg .rounded}
 * Winterkongress {.winterkongress}
 * Configuration Management Camp {.cfgmgmntcamp}
+* InselChaos 2026 {.inselchaos .rounded}
 {.appevents .content-list}
 
 <CommonFooter />
