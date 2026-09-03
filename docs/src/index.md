@@ -59,35 +59,35 @@ The user interface of EventFahrplan can be translated into any language. Session
 
 # Steady events & happy users {.appusers-headline .headline}
 The EvenFahrplan app has proven since 2011 to be very useful at small and large events such as the Chaos Communication Congress with 17,000 visitors (figures from 2019). Here is a selection of events which used the EventFahrplan app.
-* Chaos Communication Congress 2025 {.ccc .rounded}
-* Chaos Communication Camp 2023 {.cccamp .rounded}
-* FOSDEM {.fosdem}
-* FOSSGIS 2026 conference {.fossgis}
-* MRMCD 2026 {.mrmcd .rounded}
-* FrOSCon 2026 {.froscon .rounded}
-* Datenspuren 2026 {.datenspuren .rounded}
-* taz lab {.tazlab}
-* DiVOC {.divoc .rounded}
-* Droidcon Berlin 2025 {.droidcon-berlin .rounded}
+* Chaos Communication Congress 2011-2025 {.ccc .rounded}
+* Chaos Communication Camp 2011-2023 {.cccamp .rounded}
+* FOSDEM 2015-2026 {.fosdem}
+* FOSSGIS 2014-2026 conference {.fossgis}
+* MRMCD 2014-2026 {.mrmcd .rounded}
+* FrOSCon 2014-2026 {.froscon .rounded}
+* Datenspuren 2014-2026 {.datenspuren .rounded}
+* taz lab 2015-2019 {.tazlab}
+* DiVOC 2020-2022 {.divoc .rounded}
+* Droidcon Berlin 2018-2025 {.droidcon-berlin .rounded}
 * Privacy Week Wien {.privacyweek .rounded}
 * Cryptorave 2019 {.cryptorave .rounded}
 * LSWT 2018 {.lswt}
-* KotlinConf 2025 {.kotlinconf .rounded}
-* Bits & Bäume {.bitsbaeume}
-* FIfFKon {.fiffkon}
-* Hackover 2026 {.hackover .rounded}
-* GPN 2026 {.gpn .rounded}
-* PGCon 2018 {.pgcon}
-* FOSS4G 2024 {.foss4g}
-* FOSS4G Europe 2025 {.foss4ge}
+* KotlinConf 2018-2025 {.kotlinconf .rounded}
+* Bits & Bäume 2018, 2022 {.bitsbaeume}
+* FIfFKon 2014, 2018 {.fiffkon}
+* Hackover 2014-2026 {.hackover .rounded}
+* GPN 2018-2026 {.gpn .rounded}
+* PGCon 2016-2018 {.pgcon}
+* FOSS4G 2021-2024 {.foss4g}
+* FOSS4G Europe 2016-2025 {.foss4ge}
 * DebConf 2021 {.debconf}
 * VCFB 2014 {.vcfb}
-* LibreOffice 2021 {.libreoffice}
+* LibreOffice 2021-2024 {.libreoffice}
 * PyConZA 2021 {.pyconza .rounded}
-* rC3 2021 {.rc3-2021 .rounded}
-* Chemnitzer Linux-Tage 2026 {.clt .rounded}
+* rC3 2020-2021 {.rc3-2021 .rounded}
+* Chemnitzer Linux-Tage 2022-2026 {.clt .rounded}
 * Grazer Linuxtage 2024 {.glt}
-* HOPE 2026 {.hope .rounded}
+* HOPE 2022-2026 {.hope .rounded}
 * Acrolotl 2022 {.acrolotl .rounded}
 * Auerworld 2022 {.auerworld}
 * Acronia 2022 {.acronia}
