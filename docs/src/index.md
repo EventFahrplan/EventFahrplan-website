@@ -82,6 +82,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * FOSS4G 2024 {.foss4g}
 * FOSS4G Europe 2025 {.foss4ge}
 * DebConf 2021 {.debconf}
+* VCFB 2014 {.vcfb}
 * LibreOffice 2021 {.libreoffice}
 * PyConZA 2021 {.pyconza .rounded}
 * rC3 2021 {.rc3-2021 .rounded}
