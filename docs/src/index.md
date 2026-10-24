@@ -74,7 +74,7 @@ The EvenFahrplan app has proven since 2011 to be very useful at small and large 
 * LSWT 2018 {.lswt}
 * KotlinConf 2018-2025 {.kotlinconf .rounded}
 * Bits & Bäume 2018, 2022 {.bitsbaeume}
-* FIfFKon 2014, 2018 {.fiffkon}
+* FIfFKon 2014, 2018, 2026 {.fiffkon .rounded}
 * Hackover 2014-2026 {.hackover .rounded}
 * GPN 2018-2026 {.gpn .rounded}
 * PGCon 2016-2018 {.pgcon}
